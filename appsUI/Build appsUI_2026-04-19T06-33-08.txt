@@ -1,0 +1,10 @@
+
+Showing Recent Errors Only
+Prepare build
+Prepare packages
+Build target appsUI
+/Users/marvin/Desktop/WORK MEAL PLAN FILES/appsUI/appsUI.xcodeproj: Signing for "appsUI" requires a development team. Select a development team in the Signing & Capabilities editor.
+
+
+
+Activity Log Complete    19/04/2026, 6:33 AM    0.8 seconds
